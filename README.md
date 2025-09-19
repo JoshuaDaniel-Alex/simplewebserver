@@ -101,7 +101,8 @@ httpd.serve_forever()
 
 
 ## OUTPUT:
-
+![alt text](<Screenshot (52).png>)
+![alt text](<Screenshot (53).png>)
 
 
 ## RESULT:
